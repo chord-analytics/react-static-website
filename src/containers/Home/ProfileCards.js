@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-static'
 import styled from 'styled-components'
 
 import alexPic from '../../alex.jpg'
