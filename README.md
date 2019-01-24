@@ -2,8 +2,6 @@
 
 ### https://chordanalytics.ca
 
----
-
 A responsive site built with [React Static](https://github.com/nozzle/react-static).
 
 ### Develop
