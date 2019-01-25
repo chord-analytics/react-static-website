@@ -20,11 +20,7 @@ export default {
       {
         path: '/case-studies',
         component: 'src/pages/case_studies',
-      },
-      // {
-      //   path: '/blog',
-      //   component: 'src/containers/blog',
-      // },
+      }
     ]
   },
   siteRoot: 'https://chordanalytics.ca',
