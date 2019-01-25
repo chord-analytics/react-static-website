@@ -21,7 +21,7 @@ export default withSiteData(() => {
     <div >
     <Head>
       <title>Chord Analytics Case Studies | Data Science Consulting</title>
-      <meta name="description" content="Let us help with your next data project. We offer global consulations and analytics services, from Toronto ON." />
+      <meta name="description" content="Data science case studies for business; visualization, analytics and data warhousing with Python." />
     </Head>
     <MainBlock>
       <div>
